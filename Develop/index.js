@@ -103,7 +103,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
        const generated = generateMarkdown(data)
-       writeToFile('./destination/README.md', generated)
+       writeToFile('./Destination/README.md', generated)
     })
  }
 
