@@ -1,4 +1,4 @@
-# <Module-9-README-Gen>
+# Module-9-README-Gen
 
 ## Description
 
